@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "releasability.json#",
+  "$id": "releasability.json#",
   "type": "object",
   "description": "Information about resource release constraints.",
   "example":"../examples/releasability.json",

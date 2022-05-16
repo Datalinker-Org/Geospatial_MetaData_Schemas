@@ -1,5 +1,5 @@
  [{
-   "id": "id",
+   "$id": "$id",
    "description": "description",
    "identifier": {
      "identifier": "identifier",
@@ -24,7 +24,7 @@
      "seconds": 1
    }
  }, {
-   "id": "id",
+   "$id": "$id",
    "description": "description",
    "identifier": {
      "identifier": "identifier",

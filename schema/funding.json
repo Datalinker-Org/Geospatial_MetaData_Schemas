@@ -1,6 +1,5 @@
 {
-  "id": "funding.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "funding.json#",
   "type": "object",
   "description": "",
   "minProperties": 1,

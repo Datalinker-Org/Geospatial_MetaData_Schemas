@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "referenceSystemParameterSet.json#",
+  "$id": "referenceSystemParameterSet.json#",
   "type": "object",
   "title": "referenceSystemParameterSet",
   "description": "The set of parameters describing a spatial reference system.",

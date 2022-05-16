@@ -1,6 +1,6 @@
 [{
   "type": "Feature",
-  "id": "id",
+  "$id": "$id",
   "bbox": [-10.0, -10.0, 10.0, 10.0],
   "geometry": {
     "type": "Point",

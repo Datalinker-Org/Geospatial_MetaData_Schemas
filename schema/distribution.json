@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "distribution.json#",
+  "$id": "distribution.json#",
   "type": "object",
   "title": "distribution",
   "description": "Information about the distributor of and options for obtaining the resource.",

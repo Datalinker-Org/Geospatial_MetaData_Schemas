@@ -1,6 +1,5 @@
 {
-  "id": "metadata.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "metadata.json#",
   "description": "The main body of the metadata record.",
   "type": "object",
   "example": "../examples/metadata.json",

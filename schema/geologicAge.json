@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "geologicAge.json#",
+  "$id": "geologicAge.json#",
   "type": "object",
   "title": "geologicAge",
   "description": "A name, code, or date describing an event or period in geologic time, expressed either as an absolute date calculated using a named dating method, or as a relative date that is drawn from stratigraphy or biostratigraphy.",

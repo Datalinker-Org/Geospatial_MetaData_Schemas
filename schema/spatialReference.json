@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "spatialReference.json#",
+  "$id": "spatialReference.json#",
   "description": "Geospatial referencing system used in the the data resource. The reference can be provided by an EPSG number, a named reference, or providing the parameters in a well known text (WKT) format.",
   "example": "../examples/spatialReference.json",
   "translation": {

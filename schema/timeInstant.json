@@ -1,11 +1,10 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "timeInstant.json#",
+  "$id": "timeInstant.json#",
   "type": "object",
   "example": "../examples/timeInstant.json",
   "additionalProperties": true,
   "properties": {
-    "id": {
+    "$id": {
       "type": "string",
       "description": "A unique identifier for the timeInstant.",
       "translation": {

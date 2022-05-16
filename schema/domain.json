@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "domain.json#",
+  "$id": "domain.json#",
   "type": "object",
   "description": "A list of permissable values used to constrain an attribute's value.  A single domain may be assigned to multiple attributes in a table or database.",
   "example":"../examples/domain.json",

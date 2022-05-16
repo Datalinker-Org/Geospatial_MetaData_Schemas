@@ -1,6 +1,5 @@
 {
-  "id": "dataDictionary.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "dataDictionary.json#",
   "type": "object",
   "description": "A catalogue containing definitions and descriptions of the resource types, resource attributes, and resource associations.",
   "example": "../examples/dictionary.json",

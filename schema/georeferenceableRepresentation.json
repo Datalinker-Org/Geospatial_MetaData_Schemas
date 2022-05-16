@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "georeferenceableRepresentation.json#",
+  "$id": "georeferenceableRepresentation.json#",
   "type": "object",
   "title": "georeferenceableRepresentation",
   "description": "Grid with cells irregularly spaced in any given geographic/map projection coordinate system, whose individual cells can be geolocated using geolocation information supplied with the data but cannot be geolocated from the grid properties alone.",

@@ -1,6 +1,5 @@
 {
-  "id": "taxonomy.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "taxonomy.json#",
   "type": "object",
   "description": "Information on the taxa (1 or more) included in the data set, including keywords, taxonomic system and coverage information, and taxonomic classification system.",
   "example": "../examples/taxonomy.json",

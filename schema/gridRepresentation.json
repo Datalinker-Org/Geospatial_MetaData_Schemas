@@ -1,6 +1,5 @@
 {
-  "id": "gridRepresentation.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "gridRepresentation.json#",
   "example":"../examples/gridRepresentation.json",
   "description": "Information about grid objects in the resource.",
   "translation": {

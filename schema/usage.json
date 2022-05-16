@@ -1,6 +1,5 @@
 {
-  "id": "usage.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "usage.json#",
   "type": "object",
   "description": "Description of ways in which the resource is currently or has been used.",
   "example": "../examples/usage.json",

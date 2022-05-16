@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "scope.json#",
+  "$id": "scope.json#",
   "type": "object",
   "title": "",
   "description": "The target resource and physical extent for which information is reported.",

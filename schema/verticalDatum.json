@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "verticalDatum.json#",
+  "$id": "verticalDatum.json#",
   "type": "object",
   "title": "verticalDatum",
   "description": "The reference frame or system from which vertical distances (altitudes or depths) are measured.",

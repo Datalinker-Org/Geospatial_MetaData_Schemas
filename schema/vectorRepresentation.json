@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "vectorRepresentation.json#",
+  "$id": "vectorRepresentation.json#",
   "type": "object",
   "description": "Information about the vector spatial objects in the resource",
   "example": "../examples/vectorRepresentation.json",

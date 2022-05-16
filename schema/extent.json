@@ -1,6 +1,5 @@
 {
-  "id": "extent.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "extent.json#",
   "type": "object",
   "description": "Information about the geographic, vertical, and temporal extent of a resource.",
   "example": "../examples/extent.json",

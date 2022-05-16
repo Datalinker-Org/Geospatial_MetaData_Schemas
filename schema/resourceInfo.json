@@ -1,6 +1,5 @@
 {
-  "id": "resourceInfo.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "resourceInfo.json#",
   "description": "Information about the resource.",
   "type": "object",
   "example": "../examples/resourceInfo.json",

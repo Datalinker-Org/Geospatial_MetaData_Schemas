@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "projection.json#",
+  "$id": "projection.json#",
   "type": "object",
   "title": "projection",
   "description": "The set of parameters for the projection that applies to the resource.",
@@ -14,6 +13,7 @@
   "properties": {
     "projectionIdentifier": {
       "description": "The identifier for the projection.",
+      "type": "object",
       "required": ["identifier"],
       "translation": {
         "ISO 19115-2": ["referenceSystemInfo > MD_CRS > projection > RS_Identifier"]
@@ -29,9 +29,7 @@
           "description": "A description of a projection, not defined elsewhere in the standard, that was used for the data set. The information provided shall include the name of the projection, names of parameters and values used for the data set, and the citation of the specification for the algorithms that describe the mathematical relationship between Earth and plane or developable surface for the projection.",
           "translation": {
             "FGDC CSDGM": ["spref > horizsys > planar > mapprojp > otherprj"]
-          },
-          "type": "string",
-          "description": "A complete description of a grid system, not defined elsewhere in this standard, that was used for the data set. The information provided shall include the name of the grid system, the names of the parameters and values used for the data set, and the citation of the specification for the algorithms that describe the mathematical relationship between the Earth and the coordinates of the grid system."
+          }
         },
         "name":{
           "type": "string",

@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "medium.json#",
+  "$id": "medium.json#",
   "type": "object",
   "title": "medium",
   "description": "Information about offline media on which the resource can be stored or distributed.",

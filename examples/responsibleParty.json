@@ -3,7 +3,7 @@
    "roleExtent": [{
      "temporalExtent": [{
        "timePeriod": {
-         "id": "id",
+         "$id": "$id",
          "description": "description",
          "identifier": {
            "identifier": "identifier",
