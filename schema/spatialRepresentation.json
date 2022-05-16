@@ -1,6 +1,5 @@
 {
-  "id": "spatialRepresentation.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "spatialRepresentation.json#",
   "example": "../examples/spatialRepresentation.json",
   "description": "",
   "translation": {},

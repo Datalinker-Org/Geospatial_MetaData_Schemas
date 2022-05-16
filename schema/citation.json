@@ -1,6 +1,5 @@
 {
-  "id": "citation.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "citation.json#",
   "type": "object",
   "title": "citation",
   "description": "A citation object.",

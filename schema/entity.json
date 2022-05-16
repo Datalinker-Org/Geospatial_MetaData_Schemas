@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "entity.json#",
+  "$id": "entity.json#",
   "type": "object",
   "title": "entity",
   "translation": {

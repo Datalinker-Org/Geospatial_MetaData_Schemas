@@ -1,6 +1,5 @@
 {
-  "id": "lineage.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "lineage.json#",
   "type": "object",
   "description": "Information on the history of the resource.",
   "example": "../examples/lineage.json",

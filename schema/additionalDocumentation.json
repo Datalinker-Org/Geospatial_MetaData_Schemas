@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "additionalDocumentation.json#",
+  "$id": "additionalDocumentation.json#",
   "type": "object",
   "title": "additionalDocumentation",
   "description": "Other documents related to, but not defining, the resource such as factsheets, data catalog pages, award documents, proposals, and informational websites.",

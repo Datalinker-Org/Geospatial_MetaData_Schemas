@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "transferOption.json#",
+  "$id": "transferOption.json#",
   "type": "object",
   "title": "transferOption",
   "description": "Describes method and media by which a resource is obtained from the distributor.",

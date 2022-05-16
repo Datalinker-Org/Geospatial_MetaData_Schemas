@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "responsibility.json#",
+  "$id": "responsibility.json#",
   "type": "object",
   "description": "Identifies contact role(s).",
   "example": "../examples/responsibility.json",

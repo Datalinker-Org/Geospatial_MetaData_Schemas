@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "associatedResource.json#",
+  "$id": "associatedResource.json#",
   "type": "object",
   "title": "associatedResource",
   "description": "Other resources which are directly related to the subject resource such as parent, child, or sibling datasets or projects.",

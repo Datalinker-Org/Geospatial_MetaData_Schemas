@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "orderProcess.json#",
+  "$id": "orderProcess.json#",
   "type": "object",
   "title": "orderProcess",
   "description": "Provides information about how the resource may be obtained and related instructions and fee information.",

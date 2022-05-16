@@ -1,6 +1,5 @@
 {
-  "id": "constraint.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "constraint.json#",
   "description": "schema for constraint",
   "example": "../examples/constraint.json",
   "required": ["type"],

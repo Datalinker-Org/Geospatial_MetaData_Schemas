@@ -1,6 +1,5 @@
 {
-  "id": "distributor.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "distributor.json#",
   "type": "object",
   "title": "distributor",
   "example":"../examples/distributor.json",

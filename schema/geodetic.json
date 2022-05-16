@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "geodetic.json#",
+  "$id": "geodetic.json#",
   "type": "object",
   "title": "geodetic",
   "description": "Parameters for defining the shape of the earth.",

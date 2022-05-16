@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "attributeGroup.json#",
+  "$id": "attributeGroup.json#",
   "type": "object",
   "description": "Information about groups of attributes describing a coverage.",
   "example":"../examples/attributeGroup.json",

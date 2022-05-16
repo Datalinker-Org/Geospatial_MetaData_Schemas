@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "measure.json#",
+  "$id": "measure.json#",
   "type": "object",
   "title": "measure",
   "description": "Number and type of units",

@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "resourceType.json#",
+  "$id": "resourceType.json#",
   "type": "object",
   "title": "resourceType",
   "description": "Identifies the kinds and scope of items in the resource",

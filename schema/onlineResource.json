@@ -1,6 +1,5 @@
 {
-  "id": "onlineResource.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "onlineResource.json#",
   "type": "object",
   "description": "Information about accessing online resources and services.",
   "example": "../examples/onlineResource.json",

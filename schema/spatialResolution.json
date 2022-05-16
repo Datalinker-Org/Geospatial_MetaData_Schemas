@@ -1,6 +1,5 @@
 {
-  "id": "spatialResolution.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "spatialResolution.json#",
   "description": "Information about the scale of the geographic extent.",
   "example": "../examples/spatialResolution.json",
   "translation": {

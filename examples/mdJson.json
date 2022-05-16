@@ -287,7 +287,7 @@
                   "containsData": true,
                   "geographicElement": [{
                     "type": "Feature",
-                    "id": "polygon-75",
+                    "$id": "polygon-75",
                     "bbox": [-10.0, -10.0,
                       10.0,
                       10.0
@@ -711,7 +711,7 @@
                   "containsData": true,
                   "geographicElement": [{
                     "type": "Feature",
-                    "id": "polygon-75",
+                    "$id": "polygon-75",
                     "bbox": [-10.0, -10.0,
                       10.0,
                       10.0
@@ -879,7 +879,7 @@
           "temporalExtent": [{
               "timeInstant": {
                 "dateTime": "2016-10-24T11:10:15.2-10:00",
-                "id": "instant_001",
+                "$id": "instant_001",
                 "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
                 "identifier": {
                   "identifier": "HighTide",
@@ -893,7 +893,7 @@
             },
             {
               "timePeriod": {
-                "id": "period_001",
+                "$id": "period_001",
                 "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
                 "identifier": {
                   "identifier": "SlackTide",
@@ -917,7 +917,7 @@
             {
               "timeInstant": {
                 "dateTime": "2017-03-25T23:10:15",
-                "id": "instant_002",
+                "$id": "instant_002",
                 "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
                 "identifier": {
                   "identifier": "LowTide",
@@ -2091,7 +2091,7 @@
             },
             {
               "timeInstant": {
-                "id": "id",
+                "$id": "$id",
                 "description": "description",
                 "identifier": {
                   "identifier": "identifier",
@@ -2218,7 +2218,7 @@
               "containsData": true,
               "geographicElement": [{
                 "type": "Feature",
-                "id": "polygon-75",
+                "$id": "polygon-75",
                 "bbox": [-10.0, -10.0, 10.0, 10.0],
                 "geometry": {
                   "type": "Polygon",
@@ -2278,7 +2278,7 @@
                 "bbox": [-10.0, -10.0, 10.0, 10.0],
                 "features": [{
                     "type": "Feature",
-                    "id": "ALCC-BH55",
+                    "$id": "ALCC-BH55",
                     "bbox": [-10.0, -10.0, 10.0, 10.0],
                     "geometry": {
                       "type": "Point",
@@ -2293,7 +2293,7 @@
                   },
                   {
                     "type": "Feature",
-                    "id": "ALCC-BH56",
+                    "$id": "ALCC-BH56",
                     "bbox": [-10.0, -10.0, 10.0, 10.0],
                     "geometry": {
                       "type": "LineString",
@@ -2310,7 +2310,7 @@
                   },
                   {
                     "type": "Feature",
-                    "id": "ALCC-Co81",
+                    "$id": "ALCC-Co81",
                     "bbox": [-10.0, -10.0, 10.0, 10.0],
                     "geometry": {
                       "type": "GeometryCollection",
@@ -2462,7 +2462,7 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
             "rationale": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
             "timePeriod": {
-              "id": "TimePeriod001",
+              "$id": "TimePeriod001",
               "startDateTime": "2016-10-14T11:10:15.2-10:00",
               "endDateTime": "2016-12-31",
               "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
@@ -2704,7 +2704,7 @@
         "timePeriod": {
           "startDateTime": "2016-10-14T11:10:15.2-10:00",
           "endDateTime": "2016-12-31",
-          "id": "TimePeriod001",
+          "$id": "TimePeriod001",
           "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
           "identifier": {
             "identifier": "TimePeriod Identifier",

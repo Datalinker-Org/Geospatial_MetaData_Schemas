@@ -1,6 +1,5 @@
 {
-  "id": "contact.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "contact.json#",
   "description": "Basic information for a contact.",
   "translation": {
     "ISO 19115-2": ["Contact > CI_ResponsibleParty"],

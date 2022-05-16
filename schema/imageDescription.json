@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "imageDescription.json#",
+  "$id": "imageDescription.json#",
   "type": "object",
   "description": "Information about an image's suitability for use.",
   "example":"../examples/imageDescription.json",

@@ -1,6 +1,5 @@
 {
-  "id": "common.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "common.json#",
   "description": "schema definitions for reusable properties",
   "definitions": {
     "url": {

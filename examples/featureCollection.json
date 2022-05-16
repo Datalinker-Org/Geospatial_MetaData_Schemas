@@ -3,7 +3,7 @@
   "bbox": [-10.0, -10.0, 10.0, 10.0],
   "features": [{
       "type": "Feature",
-      "id": "id",
+      "$id": "$id",
       "bbox": [-10.0, -10.0, 10.0, 10.0],
       "geometry": {
         "type": "Point",
@@ -15,7 +15,7 @@
     },
     {
       "type": "Feature",
-      "id": "id",
+      "$id": "$id",
       "bbox": [-10.0, -10.0, 10.0, 10.0],
       "geometry": {
         "type": "LineString",
@@ -32,7 +32,7 @@
     },
     {
       "type": "Feature",
-      "id": "featureId",
+      "$id": "featureId",
       "bbox": [-10.0, -10.0, 10.0, 10.0],
       "geometry": {
         "type": "GeometryCollection",

@@ -1,6 +1,5 @@
 {
-  "id": "coverageDescription.json#",
-  "$schema": "http://json-schema.org/draft-04/schema#",
+  "$id": "coverageDescription.json#",
   "type": "object",
   "example":"../examples/coverageDescription.json",
   "description": "Details about the content of a raster resource.",

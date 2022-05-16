@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "geographicExtent.json#",
+  "$id": "geographicExtent.json#",
   "type": "object",
   "description": "Describes the spatial area of the resource",
   "example": "../examples/geographicExtent.json",

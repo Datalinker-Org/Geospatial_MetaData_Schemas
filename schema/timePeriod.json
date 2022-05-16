@@ -1,6 +1,5 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "timePeriod.json#",
+  "$id": "timePeriod.json#",
   "type": "object",
   "description": "A span of time represented by a starting date-time and an ending date-time.",
   "example": "../examples/timePeriod.json",
@@ -8,7 +7,7 @@
   "additionalProperties": true,
 
   "properties": {
-    "id": {
+    "$id": {
       "type": "string",
       "description": "A unique identifier for a time period.",
       "translation": {
